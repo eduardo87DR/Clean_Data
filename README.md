@@ -34,6 +34,13 @@ GROUP: IDYGS91
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1h7FuAOym21WWULCykKmCZ9NNCVzMhQAj?usp=sharing
 
+
+TEAM: 2
+
+GROUP: IDYGS91
+LINK TO SEE THE COLAB:
+https://colab.research.google.com/drive/1PEcac8FUosrOfMmv9EYF6jLYDDM0ID1F?usp=sharing
+
 TEAM: 1
 
 GROUP: IDYGS92
